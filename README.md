@@ -1,1 +1,3 @@
-<h1 style="color: blue">Ez egy oldal</h1>
+<h1>Ez egy oldal</h1>
+
+<p style="color: blue">asdasdasdasdasd</p>
