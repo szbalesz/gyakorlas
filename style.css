@@ -70,6 +70,7 @@
     color: white;
     padding: 20px 0;
     box-shadow: 0 0 7px 2px grey;
+    margin-right: 30px;
 }
 
 .card h3 {
@@ -77,5 +78,6 @@
 }
 
 #card-holder {
-
+    display: inline-flex;
+    margin: 0 30px 30px 0
 }
